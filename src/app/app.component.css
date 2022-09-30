@@ -1,0 +1,13 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.dado {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 10px;
+}
